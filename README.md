@@ -4,30 +4,30 @@ A collection of Web3 learning resources for developers
 
 ## Table of Contents
 
-* **1. Into To Blockchain Development
+.1 **Into To Blockchain Development
 
-* **2. Getting Started
+.1 **Getting Started
 
-* **3. Tools 
+.1 **Tools 
 
-* **4. Different Types of Blockchains
+.1 **Different Types of Blockchains
 
-* **5. Layer 1's
+.1 **Layer 1's
 
-* **6. Layer 2's
+.1 ** Layer 2's
 
-* **7. Smart Contracts
+.1 ** Smart Contracts
 
-* **8. NFT's
+.1 ** NFT's
 
-* **9. Identity - DID's, SBTs, and VCs
+.1 ** Identity - DID's, SBTs, and VCs
 
-* **10. DeFi
+.1 **DeFi
 
-* **11. DAOs
+.1 **DAOs
 
-* **12. Oracles
+.1 **Oracles
 
-* **13. Decentralized File Storage
+.1 ** Decentralized File Storage
 
-* **14. Other
+.1 ** Other
