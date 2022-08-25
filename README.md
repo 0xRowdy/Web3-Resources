@@ -19,6 +19,6 @@ A collection of Web3 learning resources for developers
 .1 ** Decentralized File Storage
 .1 ** Other
 
-1. * **Estimated Duration:** 2 weeks
-1. * **FTE:**  1
-1. * **Costs:** $5,000
+1. **Estimated Duration:** 2 weeks
+1. **FTE:**  1
+1. **Costs:** $5,000
